@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "nama": "Nasi Goreng",
+    "deskripsi": "Nasi goreng khas Indonesia dengan bumbu kecap dan topping pilihan.",
+    "harga": 18000,
+    "rating": 4.8,
+    "gambar": "https://plus.unsplash.com/premium_photo-1694141252774-c937d97641da?q=80&w=388&auto=format&fit=crop&ixlib=rb-4.1.0"
+  },
+  {
+    "id": 2,
+    "nama": "Sate Ayam",
+    "deskripsi": "Daging ayam tusuk dibakar dengan bumbu kacang gurih.",
+    "harga": 25000,
+    "rating": 4.7,
+    "gambar": "https://images.unsplash.com/photo-1644288232801-2b40ff99d54f?q=80&w=327&auto=format&fit=crop&ixlib=rb-4.1.0"
+  },
+  {
+    "id": 3,
+    "nama": "Bakso",
+    "deskripsi": "Bakso sapi hangat dengan kuah gurih dan pelengkap mie serta sayur.",
+    "harga": 15000,
+    "rating": 4.6,
+    "gambar": "https://images.unsplash.com/photo-1747317498894-d2af58330072?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0"
+  },
+  {
+    "id": 4,
+    "nama": "Rendang",
+    "deskripsi": "Daging sapi dimasak lama dengan bumbu rempah khas Padang.",
+    "harga": 30000,
+    "rating": 4.9,
+    "gambar": "https://images.unsplash.com/photo-1585079547692-25225578647e?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": 5,
+    "nama": "Pempek",
+    "deskripsi": "Makanan khas Palembang berbahan ikan dan disajikan dengan cuko.",
+    "harga": 12000,
+    "rating": 4.5,
+    "gambar": "https://images.unsplash.com/photo-1707531288747-ad6d172864a4?q=80&w=786&auto=format&fit=crop&ixlib=rb-4.1.0"
+  }
+]
